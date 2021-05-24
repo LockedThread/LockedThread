@@ -11,8 +11,7 @@
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
-Go         5 hrs 56 mins   ████████████████████████▓   98.08 % 
-SQL        5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
