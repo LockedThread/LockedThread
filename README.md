@@ -18,5 +18,5 @@ YAML     15 mins         █░░░░░░░░░░░░░░░░░�
 HTML     11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
 ```
 <!--END_SECTION:waka-->
-
+###### *This graph is generated from WakeTime using active coding time*
 -------
