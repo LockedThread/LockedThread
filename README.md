@@ -11,8 +11,7 @@
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
-Java         11 mins         ███████████████████▒░░░░░   77.61 % 
-TypeScript   2 mins          █████░░░░░░░░░░░░░░░░░░░░   20.06 % 
+Java   11 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 ###### *This graph is generated from WakeTime using active coding time*
