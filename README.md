@@ -11,9 +11,7 @@
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
-YAML         2 mins          ███████████░░░░░░░░░░░░░░   43.92 % 
-TypeScript   1 min           ███████▒░░░░░░░░░░░░░░░░░   29.21 % 
-GraphQL      1 min           ██████▓░░░░░░░░░░░░░░░░░░   26.87 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 ###### *This graph is generated from WakeTime using active coding time*
