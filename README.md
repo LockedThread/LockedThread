@@ -11,7 +11,8 @@
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
-YAML   7 mins          █████████████████████████   100.00 % 
+Java     1 hr 8 mins     ██████████████████████░░░   88.31 % 
+YAML     8 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
 ```
 <!--END_SECTION:waka-->
 ###### *This graph is generated from WakeTime using active coding time*
