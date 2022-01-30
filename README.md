@@ -11,7 +11,8 @@
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
-Go        1 hr 40 mins    █████████████████████████   100.00 % 
+Go        1 hr 41 mins    ███████████████████████░░   92.35 % 
+GraphQL   8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
 ```
 <!--END_SECTION:waka-->
 ###### *This graph is generated from WakeTime using active coding time*
