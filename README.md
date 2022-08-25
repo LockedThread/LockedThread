@@ -11,10 +11,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-YAML                   29 mins         ██████████████▓░░░░░░░░░░   58.09 %
-Bash                   14 mins         ███████░░░░░░░░░░░░░░░░░░   27.96 %
-GraphQL                6 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.45 %
-BashPro Shell Script   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
