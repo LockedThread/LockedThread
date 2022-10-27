@@ -11,7 +11,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+C                9 mins          ██████████████████▓░░░░░░   74.56 %
+ObjectiveC       3 mins          ██████▒░░░░░░░░░░░░░░░░░░   24.90 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+CMake            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 ```
 
 <!--END_SECTION:waka-->
