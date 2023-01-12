@@ -11,8 +11,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-GraphQL   2 mins          █████████████▓░░░░░░░░░░░   54.13 %
-Go        2 mins          ███████████▒░░░░░░░░░░░░░   45.87 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
