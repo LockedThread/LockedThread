@@ -11,12 +11,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-C                1 hr 19 mins    █████████████▓░░░░░░░░░░░   54.67 %
-ObjectiveC       1 hr            ██████████▒░░░░░░░░░░░░░░   41.22 %
-GitIgnore file   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
-Text             1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
-Shell Script     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
-Bash             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
