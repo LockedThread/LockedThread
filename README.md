@@ -7,6 +7,14 @@
 
 -------
 
+
+<a href="https://github.com/LockedThread/LockedThread">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LockedThread&theme=transparent&bg_color=00000000&show_icons=true&count_private=true" />
+  <img height="174em" src="https://github-readme-stats.vercel.app/api/top-langs?username=LockedThread&theme=transparent&layout=compact&hide_progress=true&bg_color=00000000" />
+  </a>
+
+-------
+
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 
