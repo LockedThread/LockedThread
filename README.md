@@ -24,7 +24,6 @@ Python             1 hr 8 mins     ███░░░░░░░░░░░░
 TypeScript         42 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 %
 YAML               33 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.85 %
 protobuf           12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
-Protocol Buffer    6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
 ```
 
 <!--END_SECTION:waka-->
