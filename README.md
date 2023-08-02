@@ -19,7 +19,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python             2 hrs 16 mins   ██████████████████▓░░░░░░   74.06 %
+Jupyter            15 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 %
+Text               15 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 %
+Other              14 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 %
+requirements.txt   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
 ```
 
 <!--END_SECTION:waka-->
