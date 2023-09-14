@@ -19,11 +19,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python             10 hrs 43 mins  ████████████▒░░░░░░░░░░░░   49.36 %
-requirements.txt   3 hrs 9 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.54 %
-YAML               2 hrs 20 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.80 %
-Text               1 hr 45 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 %
-Jupyter            1 hr 15 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.76 %
+Python             10 hrs 35 mins  ███████████▒░░░░░░░░░░░░░   45.30 %
+requirements.txt   3 hrs 28 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.88 %
+YAML               2 hrs 20 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.03 %
+Text               1 hr 59 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 %
+Docker             1 hr 54 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 %
 ```
 
 <!--END_SECTION:waka-->
