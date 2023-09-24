@@ -19,11 +19,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python             28 mins         █████████████████▒░░░░░░░   69.77 %
-Text               4 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.18 %
-Markdown           3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.00 %
-Ezhil              2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.05 %
-GitIgnore file     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
