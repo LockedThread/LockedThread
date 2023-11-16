@@ -19,11 +19,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Jupyter            1 hr 38 mins    ███████████████████▓░░░░░   78.21 %
-Python             23 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.38 %
-YAML               3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
-Shell Script       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
-requirements.txt   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+Jupyter            6 hrs 33 mins   ████████████████████▒░░░░   81.21 %
+Python             1 hr 26 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.84 %
+YAML               3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
+Shell Script       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+requirements.txt   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
