@@ -19,11 +19,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Jupyter            8 hrs 18 mins   ██████████████████▒░░░░░░   73.48 %
-Python             2 hrs 13 mins   █████░░░░░░░░░░░░░░░░░░░░   19.68 %
-Docker             20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
-Text               13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
-YAML               3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
