@@ -19,11 +19,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Go           1 hr 48 mins    ████████████████████████░   96.23 %
-Python       2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
-go.mod       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
-TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
