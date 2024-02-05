@@ -19,8 +19,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python    1 hr 47 mins    ████████████████████░░░░░   79.47 %
-Jupyter   27 mins         █████░░░░░░░░░░░░░░░░░░░░   20.53 %
+Python    52 mins         █████████████████████░░░░   84.56 %
+Jupyter   9 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.44 %
 ```
 
 <!--END_SECTION:waka-->
