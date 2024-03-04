@@ -19,7 +19,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Go                 35 mins         █████████▓░░░░░░░░░░░░░░░   39.19 %
+Python             26 mins         ███████▒░░░░░░░░░░░░░░░░░   29.22 %
+go.mod             7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 %
+textmate           5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.85 %
+TOML               4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.32 %
 ```
 
 <!--END_SECTION:waka-->
