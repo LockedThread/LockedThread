@@ -19,11 +19,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python             4 hrs 37 mins   ████████████████████████▒   96.76 %
-Docker             9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
-Text               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-Jupyter            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
-requirements.txt   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
