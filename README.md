@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Rust.
-- 💬 Ask me about Go, Java, Kotlin, Kubernetes, or Docker.
+- 🌱 I’m a UCF student looking to build things and make stuff happen. 
+- 💬 Ask me about Rust, Go, Kubernetes, or Docker.
 - 📫 How to reach me: contact@warrensnipes.dev
 - ⚡ Fun fact: I have a blue nose pitbull named [Rocco](https://i.imgur.com/iLsSCKu.jpg).
 
