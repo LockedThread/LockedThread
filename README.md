@@ -19,10 +19,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Protocol Buffer   1 min           ████████████████░░░░░░░░░   63.92 %
-protobuf          0 secs          █████░░░░░░░░░░░░░░░░░░░░   19.47 %
-Markdown          0 secs          ███▒░░░░░░░░░░░░░░░░░░░░░   12.68 %
-Go                0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
